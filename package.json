@@ -1,0 +1,10 @@
+{
+  "name": "init-architecture",
+  "version": "1.0.0",
+  "description": "Next.js feature-based architecture generator",
+  "type": "module",
+  "bin": { "init-architecture": "./init-architecture.mjs" },
+  "files": ["init-architecture.mjs"],
+  "engines": { "node": ">=18.17" },
+  "license": "MIT"
+}
